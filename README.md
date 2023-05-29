@@ -9,7 +9,17 @@ Proyecto IoT (Sistemas de Monitorización y Control)
 
 ## Base de datos:
 
-- ###Proyecto "Farma Industries"
+- Proyecto "Farma Industries"
 <p align="center">
-  <img src="https://github.com/URJCMakerGroup/TFG-Cristina-Fernandez/blob/main/img/Small/NemaMotorHolder_class.PNG](https://github.com/CristinaFG/Farma-Industries/blob/main/Im%C3%A1genes/BBDD.png">
+  <img src="Imágenes/BBDD.png">
+</p>
+
+- Tabla "Inventario"
+<p align="center">
+  <img src="Imágenes/Tabla_inventario.png">
+</p>
+
+- Tabla "Datos"
+<p align="center">
+  <img src="Imágenes/Tabla_datos.png">
 </p>
