@@ -10,19 +10,6 @@ Proyecto IoT (Sistemas de Monitorización y Control)
 ## Base de datos:
 
 - ###Proyecto "Farma Industries"
-
-
-- ### [Soporte motor](https://github.com/URJCMakerGroup/TFG-Cristina-Fernandez/blob/main/src/NemaMotorHolder_class.py)
-
-
 <p align="center">
-  <img src="https://github.com/URJCMakerGroup/TFG-Cristina-Fernandez/blob/main/img/Small/NemaMotorHolder_class.PNG">
+  <img src="https://github.com/URJCMakerGroup/TFG-Cristina-Fernandez/blob/main/img/Small/NemaMotorHolder_class.PNG](https://github.com/CristinaFG/Farma-Industries/blob/main/Im%C3%A1genes/BBDD.png">
 </p>
-
-- ### [Soporte tuerca husillo](https://github.com/URJCMakerGroup/TFG---Cristina---Fernandez/blob/main/src/board_class.py)
-
-<p align="center">
-  <img src="https://github.com/URJCMakerGroup/TFG-Cristina-Fernandez/blob/main/img/Small/board_class_definitivo.PNG">
-</p>
-
-
